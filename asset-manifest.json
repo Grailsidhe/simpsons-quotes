@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/simpsons-quotes/static/css/main.2b1731a7.chunk.css",
+    "main.css": "/simpsons-quotes/static/css/main.2504da26.chunk.css",
     "main.js": "/simpsons-quotes/static/js/main.e1977a8b.chunk.js",
     "main.js.map": "/simpsons-quotes/static/js/main.e1977a8b.chunk.js.map",
     "runtime-main.js": "/simpsons-quotes/static/js/runtime-main.99f90b35.js",
@@ -8,13 +8,13 @@
     "static/js/2.fe8611e9.chunk.js": "/simpsons-quotes/static/js/2.fe8611e9.chunk.js",
     "static/js/2.fe8611e9.chunk.js.map": "/simpsons-quotes/static/js/2.fe8611e9.chunk.js.map",
     "index.html": "/simpsons-quotes/index.html",
-    "static/css/main.2b1731a7.chunk.css.map": "/simpsons-quotes/static/css/main.2b1731a7.chunk.css.map",
+    "static/css/main.2504da26.chunk.css.map": "/simpsons-quotes/static/css/main.2504da26.chunk.css.map",
     "static/js/2.fe8611e9.chunk.js.LICENSE.txt": "/simpsons-quotes/static/js/2.fe8611e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.99f90b35.js",
     "static/js/2.fe8611e9.chunk.js",
-    "static/css/main.2b1731a7.chunk.css",
+    "static/css/main.2504da26.chunk.css",
     "static/js/main.e1977a8b.chunk.js"
   ]
 }
